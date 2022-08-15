@@ -6,4 +6,7 @@ set shiftwidth=4
 set smarttab
 set ai
 set si
-
+set termguicolors
+syntax enable
+set background=dark
+colorscheme solarized
